@@ -1,4 +1,4 @@
-dataSetVersion = "2021-06-11"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "dolt"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
