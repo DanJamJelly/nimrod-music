@@ -36,11 +36,13 @@ dataSet[dataSetVersion].characterData = [
     name: "Dan Off the Perc",
     img: "vQXwL7X.jpg",
     opts: { series: ["rtwo"]
+	}
   },
   {
     name: "Erwin",
     img: "oyk5Pw5.jpg",
     opts: { series: ["rtwo"]
+	}
   },
   {
     name: "LilRed Mix #2",
@@ -53,11 +55,13 @@ dataSet[dataSetVersion].characterData = [
     name: "11 2 (Pranav)",
     img: "Aqgubc4.jpg",
     opts: { series: ["rthree"]
+	}
   },
   {
     name: "tam jam",
     img: "yYP2Yuc.jpg",
     opts: { series: ["rfour"]
+	}
   },
   {
     name: "Matt-summer Madness",
@@ -70,10 +74,12 @@ dataSet[dataSetVersion].characterData = [
     name: "Jambangers 2",
     img: "sL44Rc4.jpg",
     opts: { series: ["rfive"]
+	}
   },
   {
     name: "Sunny 101.5",
     img: "Is8nUaY.jpg",
     opts: { series: ["rfive"]
+	}
   },
 ];
