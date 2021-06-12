@@ -77,8 +77,8 @@ dataSet[dataSetVersion].characterData = [
 	}
   },
   {
-    name: "Sunny 101.5",
-    img: "Is8nUaY.jpg",
+    name: "pass da boof",
+    img: "2K6BBWZ.jpg",
     opts: { series: ["rfive"]
 	}
   },
